@@ -1,0 +1,36 @@
+
+        ul{
+            display: flex;
+            justify-content: center;
+        }
+        li{
+           display: inline;
+           border-left: 5px blue dotted ;
+           border-bottom: 5px blue dotted;
+           padding: 5px;
+           margin: 0 20px;
+        }
+        
+        h1{
+            color: rgb(255, 11, 222);
+            border: 5px rgb(109,   5, 109) solid ;
+            text-align: center;
+            font-size:50px;
+            padding: 15px;
+        }
+        h2{
+            color: pink;
+            text-align: center;
+            background-color: rgb(216, 112, 147);
+           
+        }
+
+        p{
+            text-indent: 1.5em;
+            color: rgb(2, 128, 75);
+        }
+
+        a{
+            color: red;
+        }
+ 
